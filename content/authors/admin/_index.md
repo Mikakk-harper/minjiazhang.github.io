@@ -78,7 +78,7 @@ skills:
       - name: Stata
         description: ''
         percent: 100
-        icon: devicon/Stata
+        icon: devicon/python
   - name: Hobbies
     color: '#eeac02'
     color_border: '#f0bf23'
