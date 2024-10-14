@@ -1,6 +1,6 @@
 ---
 title: 'Home'
-date: 2023-10-24
+date: 2024-10-14
 type: landing
 
 design:
@@ -16,8 +16,8 @@ sections:
       username: admin
       # Show a call-to-action button under your biography? (optional)
       button:
-        text: Download Résumé
-        url: uploads/resume.pdf
+        text: Download CV
+        url: uploads/CV (Minjia Zhang).pdf
     design:
       banner:
         # Upload your cover image to the `assets/media/` folder and reference it here
